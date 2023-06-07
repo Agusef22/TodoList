@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.24.0",
     "autoprefixer": "10.4.14",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.4",
@@ -17,5 +18,9 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.2"
+  },
+  "devDependencies": {
+    "daisyui": "^3.0.3",
+    "dotenv": "^16.1.4"
   }
 }
