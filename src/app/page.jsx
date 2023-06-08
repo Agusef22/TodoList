@@ -29,9 +29,8 @@ export default function Home() {
               <div className='max-w-md'>
                 <h1 className='text-5xl font-bold'>Todo List</h1>
                 <p className='py-6'>
-                  Provident cupiditate voluptatem et in. Quaerat fugiat ut
-                  assumenda excepturi exercitationem quasi. In deleniti eaque
-                  aut repudiandae et a id nisi.
+                  Welcome to your Task List! Organize and manage your tasks
+                  efficiently. Start being more productive today!
                 </p>
                 <button className='btn btn-primary'>
                   <Link href='/login'>Login</Link>
