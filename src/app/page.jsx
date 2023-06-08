@@ -32,9 +32,10 @@ export default function Home() {
                   Welcome to your Task List! Organize and manage your tasks
                   efficiently. Start being more productive today!
                 </p>
-                <button className='btn btn-primary'>
-                  <Link href='/login'>Login</Link>
-                </button>
+
+                <Link className='btn btn-primary' href='/login'>
+                  Login
+                </Link>
               </div>
             </div>
           </div>
